@@ -1,0 +1,87 @@
+body{
+	font-size: 20px;
+	height: 100vh;
+}
+#main{
+	width: 100%;
+	height: 60%;
+}
+nav ul li a{
+	margin-left: 20px;
+	font-size: 20px;
+	color: white;
+}
+nav ul li{
+	margin-left: 0px;
+	font-size: 18px;
+
+
+}
+nav ul li span{
+    margin-left: 40px;
+	font-size: 18px;
+	
+}
+.google{
+	position: absolute;
+	top: 50px;
+	right: 10px;
+}
+.faceboock{
+	position: absolute;
+	top: 50px;
+	right: 100px;
+}
+}
+
+
+p{
+	t
+}
+h2{
+   font-family: 'trebuchet MS', sans-serif;
+   font-weight: bold;
+   color: red;
+   font-size: 1rem;
+   margin-left: 0.9rem;
+}
+hr{
+	margin-left: 7%;
+}
+.div{
+	margin-top: 30px;
+}
+
+.btn{
+	margin-left: 38%;
+	background-color: rgb(66, 138, 194);
+	color: white;
+}
+.container{
+	margin-bottom: 50px;
+	margin-left: 5%;
+	margin-top: 50pw;
+}
+.container p{
+	padding: 10px;
+	font-size: 20px;
+	text-align: center;
+}
+.container .bloc{
+	border: 1px solid #ddd;
+	padding-bottom: 10px;
+	margin-left: 1px;
+	width: 20%;
+	margin-left: 20px;
+}
+.container img{
+	padding-top: 15px;
+	width: 200px;
+	height: 160px;
+}
+footer{
+	width: 100%;
+	height: 100px;
+	color: white;
+	text-align: center;
+}

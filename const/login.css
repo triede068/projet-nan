@@ -1,0 +1,54 @@
+body{
+	height: 100vh;
+	margin: 0px;
+	background-color: #ddd;
+	font-size: 20px;
+}
+#login{
+ width: 40%;	
+ height: 80%;
+ margin-left: 25%;
+ margin-top: 5%;
+ background-color: rgb(57, 66, 77);
+}
+form{
+	width: 60%;
+	height: 60%;
+	display: inline-block;
+	margin-left: 20%;
+	margin-top: 20%;
+	background-color: rgb(134, 138, 149);
+	margin-bottom: 10px;
+}
+input{
+	width: 70%;
+	padding: 0.5rem;
+	font-size: 20px;
+	margin: 10px;
+	position: relative;
+	left: 15%;
+	top: 10%;
+}
+input[type="submit"]{
+	width: 40%;
+	margin-left: 15%;
+	font-weight: bold;
+	color: #fff;
+	background-color: rgba(71, 74, 93, 0.5);
+	border:none;
+}
+.b1{
+	position: relative;
+	top: 10%;
+    left: 27%;
+    border: none;
+    background-color: rgb(134, 138, 149);
+    color: white;
+}
+.glyphicon{
+	position: relative;
+	top: 30px;
+	left: 40%;
+	font-size: 5rem;
+	padding-top: 1rem;
+} 
